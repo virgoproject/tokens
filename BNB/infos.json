@@ -1,3 +1,7 @@
 {
-    "CG_Platform": "binance-smart-chain"
+    "CG_Platform": "binance-smart-chain",
+    "tokens": [
+        "0xbee5e147e6e40433ff0310f5ae1a66278bc8d678",
+        "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    ]
 }
