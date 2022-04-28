@@ -1,0 +1,8 @@
+{
+    "name": "HarmonyOne",
+    "ticker": "ONE",
+    "website": "https://harmony.one/",
+    "description": "",
+    "contract": "0x799a4202c12ca952cb311598a024c80ed371a41e",
+    "decimals": 18
+}
