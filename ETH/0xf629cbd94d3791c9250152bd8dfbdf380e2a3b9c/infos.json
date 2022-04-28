@@ -1,0 +1,8 @@
+{
+    "name": "EnjinCoin",
+    "ticker": "ENJ",
+    "website": "https://enjincoin.io/",
+    "description": "",
+    "contract": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "decimals": 18
+}
