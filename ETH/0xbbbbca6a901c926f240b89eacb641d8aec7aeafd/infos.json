@@ -1,0 +1,8 @@
+{
+    "name": "LoopringCoin",
+    "ticker": "LRC",
+    "website": "https://loopring.org/",
+    "description": "",
+    "contract": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "decimals": 18
+}
