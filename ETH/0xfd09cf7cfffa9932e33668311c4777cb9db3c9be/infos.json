@@ -1,0 +1,8 @@
+{
+    "name": "Wrapped Decentraland MANA",
+    "ticker": "wMANA",
+    "website": "https://decentraland.org/",
+    "description": "",
+    "contract": "0xfd09cf7cfffa9932e33668311c4777cb9db3c9be",
+    "decimals": 18
+}
