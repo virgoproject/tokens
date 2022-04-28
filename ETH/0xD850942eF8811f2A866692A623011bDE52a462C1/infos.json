@@ -1,0 +1,8 @@
+{
+    "name": "VeChain",
+    "ticker": "VEN",
+    "website": "https://www.vechain.org/",
+    "description": "",
+    "contract": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+    "decimals": 18
+}
