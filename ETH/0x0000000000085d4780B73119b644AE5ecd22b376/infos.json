@@ -1,0 +1,8 @@
+{
+    "name": "TrueUSD",
+    "ticker": "TUSD",
+    "website": "https://trueusd.com/",
+    "description": "",
+    "contract": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "decimals": 18
+}
