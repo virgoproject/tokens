@@ -1,0 +1,8 @@
+{
+    "name": "Huobi Token",
+    "ticker": "HT",
+    "website": "https://www.huobipro.com/",
+    "description": "",
+    "contract": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "decimals": 18
+}
