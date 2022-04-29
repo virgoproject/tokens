@@ -1,0 +1,8 @@
+{
+    "name": "DAI",
+    "ticker": "DAI",
+    "website": "https://makerdao.com/",
+    "description": "",
+    "contract": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "decimals": 18
+}
