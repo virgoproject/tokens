@@ -1,0 +1,8 @@
+{
+    "name": "Near Protocol",
+    "ticker": "NEAR",
+    "website": "https://near.org/",
+    "description": "",
+    "contract": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+    "decimals": 18
+}
