@@ -1,0 +1,8 @@
+{
+    "name": "FRAX",
+    "ticker": "FRAX",
+    "website": "https://frax.finance/ ",
+    "description": "",
+    "contract": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+    "decimals": 18
+}
