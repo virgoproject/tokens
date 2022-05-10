@@ -4,5 +4,6 @@
     "website": "https://www.hbtc.finance/",
     "description": "",
     "contract": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
-    "decimals": 18
+    "decimals": 18,
+    "CG_ID": "huobi-btc"
 }
