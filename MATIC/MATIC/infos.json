@@ -3,5 +3,6 @@
     "ticker": "MATIC",
     "website": "https://polygon.technology/",
     "description": "",
-    "contract": "0x0000000000000000000000000000000000001010"
+    "contract": "0x0000000000000000000000000000000000001010",
+    "CG_ID": "matic-network"
 }
