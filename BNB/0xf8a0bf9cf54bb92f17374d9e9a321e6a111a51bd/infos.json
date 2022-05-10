@@ -4,5 +4,6 @@
     "website": "https://chain.link/",
     "description": "",
     "contract": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
-    "decimals": 18
+    "decimals": 18,
+    "CG_ID": "chainlink"
 }
