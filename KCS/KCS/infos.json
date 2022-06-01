@@ -1,0 +1,8 @@
+{
+    "name": "KuCoin Token",
+    "ticker": "KCS",
+    "website": "https://www.kcc.io/",
+    "description": "",
+    "contract": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+    "CG_ID": "kucoin-community-chain"
+}
