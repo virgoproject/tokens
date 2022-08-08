@@ -4,5 +4,6 @@
     "website": "https://decentraland.org/",
     "description": "",
     "contract": "0xfd09cf7cfffa9932e33668311c4777cb9db3c9be",
-    "decimals": 18
+    "decimals": 18,
+    "CG_ID": "decentraland"
 }
