@@ -4,5 +4,6 @@
     "website": "https://www.bitfinex.com",
     "description": "",
     "contract": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
-    "decimals": 18
+    "decimals": 18,
+    "CG_ID": "leo"
 }
