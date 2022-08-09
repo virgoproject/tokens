@@ -1,0 +1,9 @@
+{
+    "name": "Tether USD",
+    "ticker": "USDT",
+    "website": "https://mapper.matic.today/",
+    "description": "",
+    "contract": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "decimals": 6,
+    "CG_ID": "tether"
+}
