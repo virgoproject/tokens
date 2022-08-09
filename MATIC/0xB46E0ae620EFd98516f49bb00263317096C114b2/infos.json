@@ -1,0 +1,9 @@
+{
+    "name": "Theta Network",
+    "ticker": "THETA",
+    "website": "https://www.thetatoken.org/",
+    "description": "",
+    "contract": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
+    "decimals": 18,
+    "CG_ID": "theta-token"
+}
