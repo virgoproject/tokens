@@ -1,0 +1,9 @@
+{
+    "name": "Spooky Token",
+    "ticker": "BOO",
+    "website": "https://spookyswap.finance/",
+    "description": "",
+    "contract": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+    "decimals": 18,
+    "CG_ID": "spookyswap"
+}
