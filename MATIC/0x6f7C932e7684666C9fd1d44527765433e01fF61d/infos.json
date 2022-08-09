@@ -1,0 +1,9 @@
+{
+    "name": "Maker",
+    "ticker": "MKR",
+    "website": "https://makerdao.com/",
+    "description": "",
+    "contract": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+    "decimals": 18,
+    "CG_ID": "maker"
+}
