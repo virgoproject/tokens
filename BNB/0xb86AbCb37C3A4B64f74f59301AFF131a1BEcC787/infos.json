@@ -1,0 +1,9 @@
+{
+    "name": "Zilliqa",
+    "ticker": "ZIL",
+    "website": "http://www.zilliqa.com/",
+    "description": "",
+    "contract": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+    "decimals": 12,
+    "CG_ID": "zilliga"
+}
