@@ -1,0 +1,9 @@
+{
+    "name": "ChainLink",
+    "ticker": "LINK",
+    "website": "https://mapper.polygon.technology/",
+    "description": "",
+    "contract": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+    "decimals": 18,
+    "CG_ID": "chainlik"
+}
