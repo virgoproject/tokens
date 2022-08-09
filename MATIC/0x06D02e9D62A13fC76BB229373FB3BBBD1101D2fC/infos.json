@@ -1,0 +1,9 @@
+{
+    "name": "Bitfinex LEO",
+    "ticker": "LEO",
+    "website": "https://www.bitfinex.com",
+    "description": "",
+    "contract": "0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC",
+    "decimals": 18,
+    "CG_ID": "leo"
+}
