@@ -1,0 +1,9 @@
+{
+    "name": "Tomb",
+    "ticker": "TOMB",
+    "website": "https://tomb.finance/",
+    "description": "",
+    "contract": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+    "decimals": 18,
+    "CG_ID": "tomb"
+}
