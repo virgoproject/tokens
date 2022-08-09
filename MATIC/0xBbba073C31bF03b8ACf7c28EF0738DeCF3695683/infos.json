@@ -1,0 +1,9 @@
+{
+    "name": "The Sandbox",
+    "ticker": "SAND",
+    "website": "http://www.sandbox.game/",
+    "description": "",
+    "contract": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "decimals": 18,
+    "CG_ID": "the-sandbox"
+}
