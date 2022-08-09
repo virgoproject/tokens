@@ -1,0 +1,9 @@
+{
+    "name": "Dai",
+    "ticker": "DAI",
+    "website": "https://makerdao.com/",
+    "description": "",
+    "contract": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "decimals": 18,
+    "CG_ID": "dai"
+}
