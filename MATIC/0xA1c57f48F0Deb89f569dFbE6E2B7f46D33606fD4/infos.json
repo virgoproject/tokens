@@ -1,0 +1,9 @@
+{
+    "name": "Decentraland",
+    "ticker": "MANA",
+    "website": "https://decentraland.org/",
+    "description": "",
+    "contract": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+    "decimals": 18,
+    "CG_ID": "decentraland"
+}
