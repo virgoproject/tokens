@@ -1,0 +1,9 @@
+{
+    "name": "PAX Gold",
+    "ticker": "PAXG",
+    "website": "https://www.paxos.com/paxgold",
+    "description": "",
+    "contract": "0x7950865a9140cB519342433146Ed5b40c6F210f7",
+    "decimals": 18,
+    "CG_ID": "pax-gold"
+}
