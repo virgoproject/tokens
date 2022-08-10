@@ -1,9 +1,0 @@
-{
-    "name": "Virgo",
-    "ticker": "VGO",
-    "website": "https://virgo.net/",
-    "description": "",
-    "contract": "0xbee5e147e6e40433ff0310f5ae1a66278bc8d678",
-    "decimals": 8,
-    "CG_ID": "virgo"
-}
