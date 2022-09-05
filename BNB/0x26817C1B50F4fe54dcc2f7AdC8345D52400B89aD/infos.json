@@ -1,0 +1,9 @@
+{
+    "name": "MetaStocks",
+    "ticker": "MTSKS",
+    "website": "https://metastock.tech/",
+    "description": "MetaStock is a P2E business management game with a powerful AI engine developed using Chainlink",
+    "contract": "0x26817C1B50F4fe54dcc2f7AdC8345D52400B89aD",
+    "decimals": 18,
+    "CG_ID": "metastocks"
+}
