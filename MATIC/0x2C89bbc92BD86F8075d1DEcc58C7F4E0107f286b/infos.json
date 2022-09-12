@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
     "decimals": 18,
-    "CG_ID": "avalanche-2"
+    "CG_ID": "avalanche-2",
+    "alias": ""
 }

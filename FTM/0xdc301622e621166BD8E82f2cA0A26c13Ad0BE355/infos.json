@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
     "decimals": 18,
-    "CG_ID": "frax"
+    "CG_ID": "frax",
+    "alias": ""
 }

@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x82f0B8B456c1A451378467398982d4834b6829c1",
     "decimals": 18,
-    "CG_ID": "magic-internet-money"
+    "CG_ID": "magic-internet-money",
+    "alias": ""
 }

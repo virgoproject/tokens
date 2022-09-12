@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
     "decimals": 18,
-    "CG_ID": "paxos-standard"
+    "CG_ID": "paxos-standard",
+    "alias": ""
 }

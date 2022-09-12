@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
     "decimals": 18,
-    "CG_ID": "binancecoin"
+    "CG_ID": "binancecoin",
+    "alias": ""
 }

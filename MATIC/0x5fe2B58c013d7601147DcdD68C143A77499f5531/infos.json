@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
     "decimals": 18,
-    "CG_ID": "the-graph"
+    "CG_ID": "the-graph",
+    "alias": ""
 }

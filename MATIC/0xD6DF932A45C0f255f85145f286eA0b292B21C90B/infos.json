@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "decimals": 18,
-    "CG_ID": "aave"
+    "CG_ID": "aave",
+    "alias": ""
 }

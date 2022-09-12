@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
     "decimals": 18,
-    "CG_ID": "chainlik"
+    "CG_ID": "chainlik",
+    "alias": ""
 }

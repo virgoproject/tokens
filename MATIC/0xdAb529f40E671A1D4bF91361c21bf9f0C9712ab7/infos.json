@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
     "decimals": 18,
-    "CG_ID": "binance-usd"
+    "CG_ID": "binance-usd",
+    "alias": ""
 }

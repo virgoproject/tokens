@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
     "decimals": 18,
-    "CG_ID": "curve-dao-token"
+    "CG_ID": "curve-dao-token",
+    "alias": ""
 }
