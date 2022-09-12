@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
     "decimals": 8,
-    "CG_ID": "dogecoin"
+    "CG_ID": "dogecoin",
+    "alias": ""
 }

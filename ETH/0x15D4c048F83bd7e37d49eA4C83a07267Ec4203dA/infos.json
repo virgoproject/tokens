@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
     "decimals": 8,
-    "CG_ID": "gala"
+    "CG_ID": "gala",
+    "alias": ""
 }

@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
     "decimals": 18,
-    "CG_ID": "wrapped-ust"
+    "CG_ID": "wrapped-ust",
+    "alias": "ust"
 }

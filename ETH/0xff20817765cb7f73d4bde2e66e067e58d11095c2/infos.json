@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
     "decimals": 18,
-    "CG_ID": "amp-token"
+    "CG_ID": "amp-token",
+    "alias": ""
 }

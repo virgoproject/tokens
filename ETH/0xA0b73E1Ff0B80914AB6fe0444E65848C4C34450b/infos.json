@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
     "decimals": 8,
-    "CG_ID": "crypto-com-chain"
+    "CG_ID": "crypto-com-chain",
+    "alias": ""
 }

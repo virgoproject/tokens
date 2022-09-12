@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
     "decimals": 18,
-    "CG_ID": "usd-coin"
+    "CG_ID": "usd-coin",
+    "alias": ""
 }

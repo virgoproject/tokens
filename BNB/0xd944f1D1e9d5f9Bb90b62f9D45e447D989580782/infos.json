@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
     "decimals": 6,
-    "CG_ID": "iota"
+    "CG_ID": "iota",
+    "alias": ""
 }

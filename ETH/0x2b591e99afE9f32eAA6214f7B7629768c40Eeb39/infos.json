@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
     "decimals": 8,
-    "CG_ID": "hex"
+    "CG_ID": "hex",
+    "alias": ""
 }

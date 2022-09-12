@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xfb526228ff1c019e4604c7e7988c097d96bd5b70",
     "decimals": 8,
-    "CG_ID": "virgo"
+    "CG_ID": "virgo",
+    "alias": ""
 }

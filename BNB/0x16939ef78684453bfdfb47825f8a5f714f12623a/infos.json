@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
     "decimals": 18,
-    "CG_ID": "tezos"
+    "CG_ID": "tezos",
+    "alias": ""
 }

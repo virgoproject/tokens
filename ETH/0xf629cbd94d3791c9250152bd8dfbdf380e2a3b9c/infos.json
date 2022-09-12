@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
     "decimals": 18,
-    "CG_ID": "enjincoin"
+    "CG_ID": "enjincoin",
+    "alias": ""
 }

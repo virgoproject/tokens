@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
     "decimals": 18,
-    "CG_ID": "bitdao"
+    "CG_ID": "bitdao",
+    "alias": ""
 }

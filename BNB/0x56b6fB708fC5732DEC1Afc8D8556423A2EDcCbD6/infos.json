@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
     "decimals": 18,
-    "CG_ID": "eos"
+    "CG_ID": "eos",
+    "alias": ""
 }

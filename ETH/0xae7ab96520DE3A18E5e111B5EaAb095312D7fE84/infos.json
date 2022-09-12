@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "decimals": 18,
-    "CG_ID": "staked-ether"
+    "CG_ID": "staked-ether",
+    "alias": ""
 }

@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x4a220e6096b25eadb88358cb44068a3248254675",
     "decimals": 18,
-    "CG_ID": "quant-network"
+    "CG_ID": "quant-network",
+    "alias": ""
 }

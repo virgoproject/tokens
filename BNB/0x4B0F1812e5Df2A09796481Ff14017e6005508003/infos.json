@@ -5,5 +5,6 @@
     "description": "",
     "contract": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "decimals": 18,
-    "CG_ID": "trust-wallet-token"
+    "CG_ID": "trust-wallet-token",
+    "alias": ""
 }
