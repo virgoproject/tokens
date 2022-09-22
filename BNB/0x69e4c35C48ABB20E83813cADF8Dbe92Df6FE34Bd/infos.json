@@ -1,0 +1,10 @@
+{
+    "name": "ApeKing",
+    "ticker": "APK",
+    "website": "https://apeking.org/",
+    "description": "",
+    "contract": "0x69e4c35C48ABB20E83813cADF8Dbe92Df6FE34Bd",
+    "decimals": 9,
+    "CG_ID": "ape-king",
+    "alias": ""
+}
