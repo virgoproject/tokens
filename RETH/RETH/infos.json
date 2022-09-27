@@ -1,0 +1,9 @@
+{
+    "name": "Ethereum",
+    "ticker": "RETH",
+    "website": "https://ethereum.org/",
+    "description": "",
+    "contract": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "decimals": 18,
+    "CG_ID": "ethereum"
+}
