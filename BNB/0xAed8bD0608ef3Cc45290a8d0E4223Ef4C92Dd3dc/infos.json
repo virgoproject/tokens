@@ -1,0 +1,10 @@
+{
+    "name": "Avoteo",
+    "ticker": "AVO",
+    "website": "https://avoteo.io/",
+    "description": "",
+    "contract": "0xAed8bD0608ef3Cc45290a8d0E4223Ef4C92Dd3dc",
+    "decimals": 18,
+    "CG_ID": "avoteo",
+    "alias": ""
+}
