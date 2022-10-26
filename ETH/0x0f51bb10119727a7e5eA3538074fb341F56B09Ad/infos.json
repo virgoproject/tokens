@@ -1,0 +1,10 @@
+{
+    "name": "DAO Maker",
+    "ticker": "DAO",
+    "website": "https://daomaker.com/",
+    "description": "",
+    "contract": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+    "decimals": 18,
+    "CG_ID": "dao-maker",
+    "alias": ""
+}
