@@ -1,0 +1,10 @@
+{
+    "name": "Polygon",
+    "ticker": "MATIC",
+    "website": "https://polygon.technology/",
+    "description": "",
+    "contract": "0x40DF1Ae6074C35047BFF66675488Aa2f9f6384F3",
+    "decimals": 18,
+    "CG_ID": "matic-network",
+    "alias": ""
+}
