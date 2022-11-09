@@ -1,6 +1,6 @@
 {
-    "name": "Ethereum",
-    "ticker": "ETH",
+    "name": "Wrapped Ethereum",
+    "ticker": "wETH",
     "website": "https://weth.io/",
     "description": "",
     "contract": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
