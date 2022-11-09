@@ -1,0 +1,10 @@
+{
+    "name": "Spartacus",
+    "ticker": "SPA",
+    "website": "https://spartacus.finance/#/",
+    "description": "",
+    "contract": "0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc",
+    "decimals": 9,
+    "CG_ID": "spartacus",
+    "alias": ""
+}
