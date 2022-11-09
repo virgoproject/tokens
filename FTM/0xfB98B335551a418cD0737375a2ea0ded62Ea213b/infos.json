@@ -1,0 +1,10 @@
+{
+    "name": "MAI",
+    "ticker": "miMATIC",
+    "website": "https://www.mai.finance/",
+    "description": "",
+    "contract": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "decimals": 18,
+    "CG_ID": "mimatic",
+    "alias": ""
+}
