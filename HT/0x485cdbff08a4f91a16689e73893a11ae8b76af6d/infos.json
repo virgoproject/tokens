@@ -1,0 +1,10 @@
+{
+    "name": "Fei USD",
+    "ticker": "FEI",
+    "website": "https://fei.money/",
+    "description": "",
+    "contract": "0x485cdbff08a4f91a16689e73893a11ae8b76af6d",
+    "decimals": 18,
+    "CG_ID": "fei-usd",
+    "alias": ""
+}
