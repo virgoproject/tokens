@@ -1,0 +1,10 @@
+{
+    "name": "Filecoin",
+    "ticker": "FIL",
+    "website": "https://filecoin.io/",
+    "description": "",
+    "contract": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+    "decimals": 18,
+    "CG_ID": "filecoin",
+    "alias": ""
+}
