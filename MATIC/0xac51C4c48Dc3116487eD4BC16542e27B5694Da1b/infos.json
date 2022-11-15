@@ -1,0 +1,10 @@
+{
+    "name": "Cosmos",
+    "ticker": "ATOM",
+    "website": "https://cosmos.network/",
+    "description": "",
+    "contract": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+    "decimals": 6,
+    "CG_ID": "cosmos",
+    "alias": ""
+}
