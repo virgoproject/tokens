@@ -1,0 +1,10 @@
+{
+    "name": "THORChain",
+    "ticker": "RUNE",
+    "website": "https://thorchain.org/",
+    "description": "",
+    "contract": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
+    "decimals": 18,
+    "CG_ID": "thorchain",
+    "alias": ""
+}
