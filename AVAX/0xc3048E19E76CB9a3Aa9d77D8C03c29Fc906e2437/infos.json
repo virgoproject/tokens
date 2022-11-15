@@ -1,0 +1,10 @@
+{
+    "name": "Compound Coin",
+    "ticker": "COMP",
+    "website": "https://compound.finance/",
+    "description": "",
+    "contract": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+    "decimals": 18,
+    "CG_ID": "compound-coin",
+    "alias": ""
+}
