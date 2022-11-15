@@ -1,0 +1,10 @@
+{
+    "name": "Gemini Dollar",
+    "ticker": "GUSD",
+    "website": "https://gemini.com/dollar/",
+    "description": "",
+    "contract": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+    "decimals": 2,
+    "CG_ID": "gemini-dollar",
+    "alias": ""
+}
