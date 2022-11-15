@@ -1,0 +1,10 @@
+{
+    "name": "Terra Classic",
+    "ticker": "LUNC",
+    "website": "https://terra.money/",
+    "description": "",
+    "contract": "0x70928E5B188def72817b7775F0BF6325968e563B",
+    "decimals": 6,
+    "CG_ID": "terra-luna",
+    "alias": ""
+}
