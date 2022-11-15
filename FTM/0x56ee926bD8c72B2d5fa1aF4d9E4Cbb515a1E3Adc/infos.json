@@ -1,0 +1,10 @@
+{
+    "name": "Synthetix Network",
+    "ticker": "SNX",
+    "website": "https://www.synthetix.io/",
+    "description": "",
+    "contract": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+    "decimals": 18,
+    "CG_ID": "havven",
+    "alias": ""
+}
