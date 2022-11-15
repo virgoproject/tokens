@@ -1,0 +1,10 @@
+{
+    "name": "Convex Finance",
+    "ticker": "CVX",
+    "website": "https://www.convexfinance.com/",
+    "description": "",
+    "contract": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+    "decimals": 18,
+    "CG_ID": "convex-finance",
+    "alias": ""
+}
