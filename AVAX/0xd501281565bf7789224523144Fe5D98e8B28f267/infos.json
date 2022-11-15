@@ -1,0 +1,10 @@
+{
+    "name": "1INCH Token",
+    "ticker": "1INCH",
+    "website": "https://1inch.io/",
+    "description": "",
+    "contract": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+    "decimals": 18,
+    "CG_ID": "1inch",
+    "alias": ""
+}
