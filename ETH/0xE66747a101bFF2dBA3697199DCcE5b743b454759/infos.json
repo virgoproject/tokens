@@ -1,0 +1,10 @@
+{
+    "name": "Gate",
+    "ticker": "GT",
+    "website": "https://gatechain.io/",
+    "description": "",
+    "contract": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+    "decimals": 18,
+    "CG_ID": "gatechain-token",
+    "alias": ""
+}
