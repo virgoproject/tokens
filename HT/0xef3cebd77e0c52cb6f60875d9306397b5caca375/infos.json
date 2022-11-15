@@ -1,0 +1,10 @@
+{
+    "name": "Bitcoin Cash",
+    "ticker": "BCH",
+    "website": "https://bitcoincash.org/",
+    "description": "",
+    "contract": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+    "decimals": 18,
+    "CG_ID": "bitcoin-cash",
+    "alias": ""
+}
