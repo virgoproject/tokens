@@ -1,0 +1,10 @@
+{
+    "name": "SUSHI Token",
+    "ticker": "SUSHI",
+    "website": "https://www.sushiswap.fi/",
+    "description": "",
+    "contract": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+    "decimals": 18,
+    "CG_ID": "sushi",
+    "alias": ""
+}
