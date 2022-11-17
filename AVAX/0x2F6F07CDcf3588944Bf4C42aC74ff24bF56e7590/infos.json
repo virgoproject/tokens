@@ -1,0 +1,10 @@
+{
+    "name": "Stargate Finance",
+    "ticker": "STG",
+    "website": "https://stargate.finance/",
+    "description": "",
+    "contract": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "decimals": 18,
+    "CG_ID": "stargate-finance",
+    "alias": ""
+}
