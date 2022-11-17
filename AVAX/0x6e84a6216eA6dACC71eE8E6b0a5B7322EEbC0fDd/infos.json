@@ -1,0 +1,10 @@
+{
+    "name": "Joe Token",
+    "ticker": "JOE",
+    "website": "https://traderjoexyz.com/",
+    "description": "",
+    "contract": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "decimals": 18,
+    "CG_ID": "joe",
+    "alias": ""
+}
