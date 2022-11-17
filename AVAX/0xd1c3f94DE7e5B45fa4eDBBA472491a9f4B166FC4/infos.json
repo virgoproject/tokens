@@ -1,0 +1,10 @@
+{
+    "name": "Avalaunch",
+    "ticker": "XAVA",
+    "website": "https://avalaunch.app/",
+    "description": "",
+    "contract": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "decimals": 18,
+    "CG_ID": "avalaunch",
+    "alias": ""
+}
