@@ -320,5 +320,26 @@
          "swapParams":false,
          "testnet":true
       }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Celo",
+         "asset":"Celo",
+         "ticker":"CELO",
+         "decimals":18,
+         "contract":"0x471EcE3750Da237f93B8E339c536989b8978a438",
+         "RPC":"https://forno.celo.org/",
+         "chainID":42220,
+         "tokens":[
+            
+         ],
+         "transactions":[
+            
+         ],
+         "explorer":"https://celoscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
    }
 ]
