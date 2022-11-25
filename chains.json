@@ -324,20 +324,20 @@
    {
       "type":"web3",
       "wallet":{
-         "name":"Celo",
-         "asset":"Celo",
-         "ticker":"CELO",
+         "name":"Hyperon",
+         "asset":"Hyperon",
+         "ticker":"HPN",
          "decimals":18,
-         "contract":"0x471EcE3750Da237f93B8E339c536989b8978a438",
-         "RPC":"https://forno.celo.org/",
-         "chainID":42220,
+         "contract":"0xe3D2Ba4eBcc6e9AE3569d6418BC2eaABB8FeEf60",
+         "RPC":"https://mainnet-rpc.hyperonchain.com",
+         "chainID":500,
          "tokens":[
             
          ],
          "transactions":[
             
          ],
-         "explorer":"https://celoscan.io/tx/",
+         "explorer":"https://hyperonscan.com/tx/",
          "swapParams":false,
          "testnet":false
       }
