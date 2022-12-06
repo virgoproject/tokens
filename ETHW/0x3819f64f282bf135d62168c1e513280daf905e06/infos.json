@@ -1,0 +1,10 @@
+{
+    "name": "Hedron ETHW",
+    "ticker": "HDRN",
+    "website": "hedron.pro",
+    "description": "",
+    "contract": "0x3819f64f282bf135d62168c1e513280daf905e06",
+    "decimals": 6,
+    "CG_ID": "hedron-ethw",
+    "alias": ""
+}
