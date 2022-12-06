@@ -1,0 +1,10 @@
+{
+    "name": "Icosa",
+    "ticker": "ICSA",
+    "website": "icosa.pro",
+    "description": "",
+    "contract": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
+    "decimals": 9,
+    "CG_ID": "icosa",
+    "alias": ""
+}
