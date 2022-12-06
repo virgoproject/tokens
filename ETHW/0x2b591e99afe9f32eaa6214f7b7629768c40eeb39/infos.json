@@ -1,0 +1,10 @@
+{
+    "name": "Hex",
+    "ticker": "HEX",
+    "website": "hex.com",
+    "description": "",
+    "contract": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "decimals": 8,
+    "CG_ID": "hex",
+    "alias": ""
+}
