@@ -1,6 +1,7 @@
 {
     "CG_Platform": "ethereumpow",
     "tokens": [
-        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "0x2a0cf46ecaaead92487577e9b737ec63b0208a33"
     ]
 }
