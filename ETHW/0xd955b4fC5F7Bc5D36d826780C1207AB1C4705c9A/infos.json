@@ -1,0 +1,10 @@
+{
+    "name": "Power USD",
+    "ticker": "PUSD",
+    "website": "https://powerswap.fi/",
+    "description": "",
+    "contract": "0xd955b4fC5F7Bc5D36d826780C1207AB1C4705c9A",
+    "decimals": 18,
+    "CG_ID": "tether",
+    "alias": ""
+}
