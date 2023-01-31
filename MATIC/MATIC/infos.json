@@ -4,5 +4,6 @@
     "website": "https://polygon.technology/",
     "description": "",
     "contract": "0x0000000000000000000000000000000000001010",
+    "decimals": 18,
     "CG_ID": "matic-network"
 }
