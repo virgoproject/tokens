@@ -1,1 +1,10 @@
-
+{
+    "name": "Euro",
+    "ticker": "EUR",
+    "website": "",
+    "description": "",
+    "contract": "",
+    "decimals": 0,
+    "CG_ID": "",
+    "alias": ""
+}
