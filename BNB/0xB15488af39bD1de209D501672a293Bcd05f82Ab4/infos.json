@@ -1,0 +1,10 @@
+{
+    "name": "NanoMatic",
+    "ticker": "NANO",
+    "website": "https://www.nanomatic.io/",
+    "description": "",
+    "contract": "0xB15488af39bD1de209D501672a293Bcd05f82Ab4",
+    "decimals": 18,
+    "CG_ID": "nanomatic",
+    "alias": ""
+}
