@@ -1,0 +1,10 @@
+{
+    "name": "Kromatika",
+    "ticker": "KROM",
+    "website": "https://kromatika.finance/",
+    "description": "",
+    "contract": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+    "decimals": 18,
+    "CG_ID": "kromatika",
+    "alias": ""
+}
