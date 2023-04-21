@@ -1,7 +1,7 @@
 {
     "name": "Ambire Wallet",
     "ticker": "WALLET",
-    "website": "https://www.ambire.com/",
+    "website": "https://www.ambire.com/wallet",
     "description": "",
     "contract": "0x88800092ff476844f74dc2fc427974bbee2794ae",
     "decimals": 18,
