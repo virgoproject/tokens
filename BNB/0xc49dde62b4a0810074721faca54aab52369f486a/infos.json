@@ -1,0 +1,10 @@
+{
+    "name": "Polker",
+    "ticker": "PKR",
+    "website": "https://pkr.io/",
+    "description": "",
+    "contract": "0xc49dde62b4a0810074721faca54aab52369f486a",
+    "decimals": 18,
+    "CG_ID": "polker",
+    "alias": ""
+}
