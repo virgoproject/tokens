@@ -1,0 +1,10 @@
+{
+    "name": "MX Token",
+    "ticker": "MX",
+    "website": "https://www.mexc.com/",
+    "description": "",
+    "contract": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+    "decimals": 18,
+    "CG_ID": "mx-token",
+    "alias": ""
+}
