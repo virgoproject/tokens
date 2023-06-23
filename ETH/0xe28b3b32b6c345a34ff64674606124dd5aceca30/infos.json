@@ -1,0 +1,10 @@
+{
+    "name": "Injective",
+    "ticker": "INJ",
+    "website": "https://injective.com/",
+    "description": "",
+    "contract": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "decimals": 18,
+    "CG_ID": "injective-protocol",
+    "alias": ""
+}

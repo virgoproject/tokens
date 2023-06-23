@@ -1,0 +1,10 @@
+{
+    "name": "Pepe",
+    "ticker": "PEPE",
+    "website": "https://www.pepe.vip/",
+    "description": "",
+    "contract": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "decimals": 18,
+    "CG_ID": "pepe",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Floki",
+    "ticker": "FLOKI",
+    "website": "https://floki.com/",
+    "description": "",
+    "contract": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+    "decimals": 9,
+    "CG_ID": "floki",
+    "alias": ""
+}

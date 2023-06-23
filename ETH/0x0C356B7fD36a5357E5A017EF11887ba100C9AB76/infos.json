@@ -1,0 +1,10 @@
+{
+    "name": "Kava",
+    "ticker": "KAVA",
+    "website": "https://www.kava.io/",
+    "description": "",
+    "contract": "0x0C356B7fD36a5357E5A017EF11887ba100C9AB76",
+    "decimals": 6,
+    "CG_ID": "kava",
+    "alias": ""
+}
