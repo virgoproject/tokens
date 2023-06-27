@@ -1,0 +1,10 @@
+{
+    "name": "Threshold",
+    "ticker": "T",
+    "website": "https://threshold.network/",
+    "description": "",
+    "contract": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+    "decimals": 18,
+    "CG_ID": "threshold-network-token",
+    "alias": ""
+}
