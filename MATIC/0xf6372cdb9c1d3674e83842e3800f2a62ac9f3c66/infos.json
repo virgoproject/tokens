@@ -1,0 +1,10 @@
+{
+    "name": "IoTeX Network",
+    "ticker": "IOTX",
+    "website": "https://iotex.io/",
+    "description": "",
+    "contract": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+    "decimals": 18,
+    "CG_ID": "iotex",
+    "alias": ""
+}
