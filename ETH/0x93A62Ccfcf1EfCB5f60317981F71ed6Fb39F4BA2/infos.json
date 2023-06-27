@@ -1,0 +1,10 @@
+{
+    "name": "Osmosis",
+    "ticker": "OSMO",
+    "website": "https://osmosis.zone/",
+    "description": "",
+    "contract": "0x93A62Ccfcf1EfCB5f60317981F71ed6Fb39F4BA2",
+    "decimals": 6,
+    "CG_ID": "osmosis",
+    "alias": ""
+}

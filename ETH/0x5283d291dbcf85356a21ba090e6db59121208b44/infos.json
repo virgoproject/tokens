@@ -1,0 +1,10 @@
+{
+    "name": "Blur",
+    "ticker": "BLUR",
+    "website": "https://blur.io/",
+    "description": "",
+    "contract": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+    "decimals": 18,
+    "CG_ID": "blur",
+    "alias": ""
+}

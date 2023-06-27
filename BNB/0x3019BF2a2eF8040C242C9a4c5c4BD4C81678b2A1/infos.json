@@ -1,0 +1,10 @@
+{
+    "name": "Stepn",
+    "ticker": "GMT",
+    "website": "https://www.stepn.com/",
+    "description": "",
+    "contract": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+    "decimals": 8,
+    "CG_ID": "stepn",
+    "alias": ""
+}

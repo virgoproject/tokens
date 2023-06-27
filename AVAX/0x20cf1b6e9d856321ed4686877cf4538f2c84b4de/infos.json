@@ -1,0 +1,10 @@
+{
+    "name": "Ankr",
+    "ticker": "ANKR",
+    "website": "https://www.ankr.com/",
+    "description": "",
+    "contract": "0x20cf1b6e9d856321ed4686877cf4538f2c84b4de",
+    "decimals": 18,
+    "CG_ID": "ankr",
+    "alias": ""
+}

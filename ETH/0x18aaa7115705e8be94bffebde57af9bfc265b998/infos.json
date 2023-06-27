@@ -1,0 +1,10 @@
+{
+    "name": "Audius",
+    "ticker": "AUDIO",
+    "website": "https://audius.co/",
+    "description": "",
+    "contract": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "decimals": 18,
+    "CG_ID": "audius",
+    "alias": ""
+}
