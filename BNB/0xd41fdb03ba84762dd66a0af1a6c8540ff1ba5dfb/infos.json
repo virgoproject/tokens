@@ -1,0 +1,10 @@
+{
+    "name": "SafePal",
+    "ticker": "SFP",
+    "website": "https://www.safepal.io/",
+    "description": "",
+    "contract": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+    "decimals": 18,
+    "CG_ID": "safepal",
+    "alias": ""
+}
