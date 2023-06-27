@@ -1,0 +1,10 @@
+{
+    "name": "Fetch.ai",
+    "ticker": "FET",
+    "website": "https://fetch-ai.network/",
+    "description": "",
+    "contract": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+    "decimals": 18,
+    "CG_ID": "fetch-ai",
+    "alias": ""
+}
