@@ -1,0 +1,10 @@
+{
+    "name": "Golem",
+    "ticker": "GLM",
+    "website": "https://golem.network/",
+    "description": "",
+    "contract": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+    "decimals": 18,
+    "CG_ID": "golem",
+    "alias": ""
+}

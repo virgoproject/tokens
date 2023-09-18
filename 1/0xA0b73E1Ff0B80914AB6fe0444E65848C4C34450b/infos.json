@@ -1,0 +1,10 @@
+{
+    "name": "Cronos",
+    "ticker": "CRO",
+    "website": "https://chain.crypto.com/",
+    "description": "",
+    "contract": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+    "decimals": 8,
+    "CG_ID": "crypto-com-chain",
+    "alias": ""
+}

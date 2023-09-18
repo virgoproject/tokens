@@ -1,0 +1,10 @@
+{
+    "name": "Eos",
+    "ticker": "EOS",
+    "website": "https://eos.io",
+    "description": "",
+    "contract": "0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588",
+    "decimals": 4,
+    "CG_ID": "eos",
+    "alias": ""
+}

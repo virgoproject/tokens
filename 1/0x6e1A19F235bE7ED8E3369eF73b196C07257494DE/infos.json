@@ -1,0 +1,10 @@
+{
+    "name": "Filecoin",
+    "ticker": "WFIL",
+    "website": "https://www.wrapped.com/",
+    "description": "",
+    "contract": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+    "decimals": 18,
+    "CG_ID": "wrapped-filecoin",
+    "alias": "filecoin"
+}

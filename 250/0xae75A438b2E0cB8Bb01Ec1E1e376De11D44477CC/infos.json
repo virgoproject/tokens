@@ -1,0 +1,10 @@
+{
+    "name": "SUSHI Token",
+    "ticker": "SUSHI",
+    "website": "https://sushi.com/",
+    "description": "",
+    "contract": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+    "decimals": 18,
+    "CG_ID": "sushi",
+    "alias": ""
+}

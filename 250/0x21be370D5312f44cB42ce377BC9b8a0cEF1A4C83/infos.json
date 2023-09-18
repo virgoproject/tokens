@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Fantom",
+    "ticker": "WFTM",
+    "website": "https://fantom.foundation/defi/",
+    "description": "",
+    "contract": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "decimals": 18,
+    "CG_ID": "wrapped-fantom",
+    "alias": "fantom"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Aavegotchi",
+    "ticker": "GHST",
+    "website": "https://www.aavegotchi.com/",
+    "description": "",
+    "contract": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+    "decimals": 18,
+    "CG_ID": "aavegotchi",
+    "alias": ""
+}

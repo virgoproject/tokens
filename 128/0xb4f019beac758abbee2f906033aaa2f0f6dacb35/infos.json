@@ -1,0 +1,10 @@
+{
+    "name": "yearn.finance",
+    "ticker": "YFI",
+    "website": "https://yearn.finance/",
+    "description": "",
+    "contract": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+    "decimals": 18,
+    "CG_ID": "yearn-finance",
+    "alias": ""
+}

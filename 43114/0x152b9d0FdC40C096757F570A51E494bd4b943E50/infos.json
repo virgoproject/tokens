@@ -1,0 +1,10 @@
+{
+    "name": "Bitcoin",
+    "ticker": "BTC.b",
+    "website": "https://bridge.avax.network/",
+    "description": "",
+    "contract": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "decimals": 8,
+    "CG_ID": "bitcoin-avalanche-bridged-btc-b",
+    "alias": ""
+}

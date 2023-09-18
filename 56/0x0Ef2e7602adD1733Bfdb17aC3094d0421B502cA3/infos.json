@@ -1,0 +1,10 @@
+{
+    "name": "eCash",
+    "ticker": "XEC",
+    "website": "https://e.cash/",
+    "description": "",
+    "contract": "0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3",
+    "decimals": 18,
+    "CG_ID": "ecash",
+    "alias": ""
+}

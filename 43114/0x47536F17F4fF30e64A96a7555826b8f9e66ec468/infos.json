@@ -1,0 +1,10 @@
+{
+    "name": "Curve DAO",
+    "ticker": "CRV",
+    "website": "https://dao.curve.fi/",
+    "description": "",
+    "contract": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+    "decimals": 18,
+    "CG_ID": "curve-dao-token",
+    "alias": ""
+}

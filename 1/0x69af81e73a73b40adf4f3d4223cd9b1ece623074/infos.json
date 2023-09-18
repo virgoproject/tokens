@@ -1,0 +1,10 @@
+{
+    "name": "Mask Network",
+    "ticker": "MASK",
+    "website": "https://www.mask.io/",
+    "description": "",
+    "contract": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+    "decimals": 18,
+    "CG_ID": "mask-network",
+    "alias": ""
+}

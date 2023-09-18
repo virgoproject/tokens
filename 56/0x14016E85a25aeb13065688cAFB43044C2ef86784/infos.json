@@ -1,0 +1,10 @@
+{
+    "name": "True USD",
+    "ticker": "TUSD",
+    "website": "https://trueusd.com/",
+    "description": "",
+    "contract": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+    "decimals": 18,
+    "CG_ID": "true-usd",
+    "alias": ""
+}

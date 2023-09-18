@@ -1,0 +1,10 @@
+{
+    "name": "Tor",
+    "ticker": "TOR",
+    "website": "https://tor.hector.network/",
+    "description": "",
+    "contract": "0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e",
+    "decimals": 18,
+    "CG_ID": "tor",
+    "alias": ""
+}

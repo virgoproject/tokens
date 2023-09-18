@@ -1,0 +1,10 @@
+{
+    "name": "0x Protocol",
+    "ticker": "ZRX",
+    "website": "http://0xprotocol.org/",
+    "description": "",
+    "contract": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "decimals": 18,
+    "CG_ID": "0x",
+    "alias": ""
+}

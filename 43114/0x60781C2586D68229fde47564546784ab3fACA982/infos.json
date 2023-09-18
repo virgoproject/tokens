@@ -1,0 +1,10 @@
+{
+    "name": "Pangolin",
+    "ticker": "PNG",
+    "website": "https://pangolin.exchange/",
+    "description": "",
+    "contract": "0x60781C2586D68229fde47564546784ab3fACA982",
+    "decimals": 18,
+    "CG_ID": "pangolin",
+    "alias": ""
+}

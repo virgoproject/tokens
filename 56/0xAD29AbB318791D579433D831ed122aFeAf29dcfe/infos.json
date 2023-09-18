@@ -1,0 +1,10 @@
+{
+    "name": "Fantom",
+    "ticker": "FTM",
+    "website": "http://fantom.foundation/",
+    "description": "",
+    "contract": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "decimals": 18,
+    "CG_ID": "fantom",
+    "alias": ""
+}

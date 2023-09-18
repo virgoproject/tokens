@@ -1,0 +1,10 @@
+{
+    "name": "Litecoin",
+    "ticker": "LTC",
+    "website": "https://litecoin.org/",
+    "description": "",
+    "contract": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+    "decimals": 18,
+    "CG_ID": "litecoin",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped ETHW",
+    "ticker": "WETHW",
+    "website": "https://ethereumpow.org/",
+    "description": "",
+    "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "CG_ID": "ethereum-pow-iou",
+    "decimals": 18,
+    "alias": ""
+}

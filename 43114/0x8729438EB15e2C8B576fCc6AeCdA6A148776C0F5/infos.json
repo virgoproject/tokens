@@ -1,0 +1,10 @@
+{
+    "name": "BENQI",
+    "ticker": "QI",
+    "website": "https://benqi.fi/",
+    "description": "",
+    "contract": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "decimals": 18,
+    "CG_ID": "benqi",
+    "alias": ""
+}

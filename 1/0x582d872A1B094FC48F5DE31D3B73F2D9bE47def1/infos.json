@@ -1,0 +1,10 @@
+{
+    "name": "The Open Network",
+    "ticker": "TON",
+    "website": "https://ton.org/",
+    "description": "",
+    "contract": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+    "decimals": 9,
+    "CG_ID": "the-open-network",
+    "alias": ""
+}

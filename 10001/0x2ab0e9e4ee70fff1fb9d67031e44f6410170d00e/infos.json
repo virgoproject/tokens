@@ -1,0 +1,10 @@
+{
+    "name": "Xen Crypto",
+    "ticker": "XEN",
+    "website": "xen.network",
+    "description": "",
+    "contract": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+    "decimals": 18,
+    "CG_ID": "xen-crypto",
+    "alias": ""
+}

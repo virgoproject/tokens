@@ -1,0 +1,10 @@
+{
+    "name": "Shiba INU",
+    "ticker": "SHIB",
+    "website": "https://shibatoken.com/",
+    "description": "",
+    "contract": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+    "decimals": 18,
+    "CG_ID": "shiba-inu",
+    "alias": ""
+}

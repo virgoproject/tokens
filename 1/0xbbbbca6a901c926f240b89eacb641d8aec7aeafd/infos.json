@@ -1,0 +1,10 @@
+{
+    "name": "Loopring",
+    "ticker": "LRC",
+    "website": "https://loopring.org/",
+    "description": "",
+    "contract": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "decimals": 18,
+    "CG_ID": "loopring",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Spell",
+    "ticker": "SPELL",
+    "website": "https://abracadabra.money/",
+    "description": "",
+    "contract": "0x468003B688943977e6130F4F68F23aad939a1040",
+    "decimals": 18,
+    "CG_ID": "spell-token",
+    "alias": ""
+}

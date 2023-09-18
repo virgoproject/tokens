@@ -1,0 +1,10 @@
+{
+    "name": "fETH",
+    "ticker": "FETH",
+    "website": "https://fantom.foundation/defi/",
+    "description": "",
+    "contract": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+    "decimals": 18,
+    "CG_ID": "feth",
+    "alias": ""
+}

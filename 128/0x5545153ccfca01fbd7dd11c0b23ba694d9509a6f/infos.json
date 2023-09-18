@@ -1,0 +1,8 @@
+{
+    "name": "Wrapped HT",
+    "ticker": "WHT",
+    "website": "https://www.huobi.com/",
+    "description": "",
+    "contract": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+    "CG_ID": "huobi-token"
+}

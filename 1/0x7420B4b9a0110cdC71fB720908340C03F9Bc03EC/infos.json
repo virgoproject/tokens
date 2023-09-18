@@ -1,0 +1,10 @@
+{
+    "name": "JasmyCoin",
+    "ticker": "JASMY",
+    "website": "https://www.jasmy.co.jp/en_company.html",
+    "description": "",
+    "contract": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+    "decimals": 18,
+    "CG_ID": "jasmycoin",
+    "alias": ""
+}

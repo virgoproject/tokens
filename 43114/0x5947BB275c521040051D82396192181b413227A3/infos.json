@@ -1,0 +1,10 @@
+{
+    "name": "ChainLink",
+    "ticker": "LINK",
+    "website": "https://chain.link/",
+    "description": "",
+    "contract": "0x5947BB275c521040051D82396192181b413227A3",
+    "decimals": 18,
+    "CG_ID": "chainlik",
+    "alias": ""
+}

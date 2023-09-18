@@ -1,0 +1,10 @@
+{
+    "name": "Hector",
+    "ticker": "HEC",
+    "website": "https://hector.network/",
+    "description": "",
+    "contract": "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
+    "decimals": 9,
+    "CG_ID": "hector-dao",
+    "alias": ""
+}

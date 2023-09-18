@@ -1,0 +1,8 @@
+{
+    "name": "Celo",
+    "ticker": "CELO",
+    "website": "https://celo.org/",
+    "description": "",
+    "contract": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "CG_ID": "celo"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Nexo",
+    "ticker": "NEXO",
+    "website": "https://nexo.io/",
+    "description": "",
+    "contract": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "decimals": 18,
+    "CG_ID": "nexo",
+    "alias": ""
+
+}

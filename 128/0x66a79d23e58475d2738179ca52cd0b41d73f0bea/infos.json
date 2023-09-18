@@ -1,0 +1,10 @@
+{
+    "name": "Huobi BTC",
+    "ticker": "HBTC",
+    "website": "https://bitcoin.org/",
+    "description": "",
+    "contract": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+    "decimals": 18,
+    "CG_ID": "huobi-btc",
+    "alias": ""
+}

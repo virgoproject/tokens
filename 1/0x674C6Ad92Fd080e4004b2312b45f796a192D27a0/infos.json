@@ -1,0 +1,10 @@
+{
+    "name": "Neutrino USD",
+    "ticker": "USDN",
+    "website": "https://neutrino.at/",
+    "description": "",
+    "contract": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+    "decimals": 18,
+    "CG_ID": "neutrino",
+    "alias": ""
+}

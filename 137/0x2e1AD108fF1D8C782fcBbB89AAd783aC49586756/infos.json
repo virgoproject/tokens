@@ -1,0 +1,10 @@
+{
+    "name": "TrueUSD",
+    "ticker": "TUSD",
+    "website": "https://www.trusttoken.com/trueusd/",
+    "description": "",
+    "contract": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+    "decimals": 18,
+    "CG_ID": "true-usd",
+    "alias": ""
+}

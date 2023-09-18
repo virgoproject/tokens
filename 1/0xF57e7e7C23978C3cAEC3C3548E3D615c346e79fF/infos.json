@@ -1,0 +1,10 @@
+{
+    "name": "Immutable X",
+    "ticker": "IMX",
+    "website": "https://www.immutable.com/",
+    "description": "",
+    "contract": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+    "decimals": 18,
+    "CG_ID": "immutable-x",
+    "alias": ""
+}

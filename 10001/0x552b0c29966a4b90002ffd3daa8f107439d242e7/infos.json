@@ -1,0 +1,10 @@
+{
+    "name": "Powpad",
+    "ticker": "PP",
+    "website": "powpad.network",
+    "description": "",
+    "contract": "0x552b0c29966a4b90002ffd3daa8f107439d242e7",
+    "decimals": 18,
+    "CG_ID": "powpad",
+    "alias": ""
+}

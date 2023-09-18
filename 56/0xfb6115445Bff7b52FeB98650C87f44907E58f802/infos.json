@@ -1,0 +1,10 @@
+{
+    "name": "Aave",
+    "ticker": "AAVE",
+    "website": "https://aave.com/",
+    "description": "",
+    "contract": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+    "decimals": 18,
+    "CG_ID": "aave",
+    "alias": ""
+}

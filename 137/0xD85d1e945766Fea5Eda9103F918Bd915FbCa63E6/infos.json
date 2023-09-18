@@ -1,0 +1,10 @@
+{
+    "name": "Celsius",
+    "ticker": "CEL",
+    "website": "https://celsius.network/",
+    "description": "",
+    "contract": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+    "decimals": 4,
+    "CG_ID": "celsius-degree-token",
+    "alias": ""
+}

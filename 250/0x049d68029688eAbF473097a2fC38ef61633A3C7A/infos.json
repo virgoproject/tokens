@@ -1,0 +1,10 @@
+{
+    "name": "Frapped USDT",
+    "ticker": "fUSDT",
+    "website": "https://frapped.io/",
+    "description": "",
+    "contract": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+    "decimals": 6,
+    "CG_ID": "tether",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Ripple",
+    "ticker": "XRP",
+    "website": "https://ripple.com/xrp/",
+    "description": "",
+    "contract": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "decimals": 18,
+    "CG_ID": "ripple",
+    "alias": ""
+}

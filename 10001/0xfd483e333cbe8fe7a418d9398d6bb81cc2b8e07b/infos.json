@@ -1,0 +1,10 @@
+{
+    "name": "LfgSwap Finance",
+    "ticker": "LFG",
+    "website": "app.lfgswap.finance",
+    "description": "",
+    "contract": "0xfd483e333cbe8fe7a418d9398d6bb81cc2b8e07b",
+    "decimals": 18,
+    "CG_ID": "lfgswap-finance",
+    "alias": ""
+}

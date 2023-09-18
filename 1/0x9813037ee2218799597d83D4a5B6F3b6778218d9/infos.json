@@ -1,0 +1,10 @@
+{
+    "name": "Bone ShibaSwap",
+    "ticker": "BONE",
+    "website": "https://www.shibatoken.com/",
+    "description": "",
+    "contract": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+    "decimals": 18,
+    "CG_ID": "bone-shibaswap",
+    "alias": ""
+}

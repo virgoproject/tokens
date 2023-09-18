@@ -1,0 +1,10 @@
+{
+    "name": "BitTorrent",
+    "ticker": "BTT",
+    "website": "https://www.bittorrent.com/",
+    "description": "",
+    "contract": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+    "decimals": 18,
+    "CG_ID": "bittorrent",
+    "alias": ""
+}

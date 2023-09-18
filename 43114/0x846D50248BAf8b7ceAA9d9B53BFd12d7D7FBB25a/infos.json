@@ -1,0 +1,10 @@
+{
+    "name": "Verso",
+    "ticker": "VSO",
+    "website": "https://verso.finance/",
+    "description": "",
+    "contract": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+    "decimals": 18,
+    "CG_ID": "verso",
+    "alias": ""
+}

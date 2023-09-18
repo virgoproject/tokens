@@ -1,0 +1,10 @@
+{
+    "name": "DeFi Yield Protocol",
+    "ticker": "DYP",
+    "website": "https://dyp.finance/",
+    "description": "",
+    "contract": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+    "decimals": 18,
+    "CG_ID": "defi-yield-protocol",
+    "alias": ""
+}

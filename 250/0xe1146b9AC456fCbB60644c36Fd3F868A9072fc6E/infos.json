@@ -1,0 +1,10 @@
+{
+    "name": "fBTC",
+    "ticker": "FBTC",
+    "website": "https://fantom.foundation/defi/",
+    "description": "",
+    "contract": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+    "decimals": 18,
+    "CG_ID": "fbtc",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Ether",
+    "ticker": "WETH",
+    "website": "https://ethereum.org",
+    "description": "",
+    "contract": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+    "decimals": 18,
+    "CG_ID": "ethereum",
+    "alias": ""
+}

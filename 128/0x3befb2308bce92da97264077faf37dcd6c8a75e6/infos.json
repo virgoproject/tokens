@@ -1,0 +1,10 @@
+{
+    "name": "WOO Network",
+    "ticker": "WOO",
+    "website": "https://woo.org/",
+    "description": "",
+    "contract": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
+    "decimals": 18,
+    "CG_ID": "woo-network",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Decentralized USD",
+    "ticker": "USDD",
+    "website": "https://usdd.io/",
+    "description": "",
+    "contract": "0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+    "decimals": 18,
+    "CG_ID": "usdd",
+    "alias": ""
+}

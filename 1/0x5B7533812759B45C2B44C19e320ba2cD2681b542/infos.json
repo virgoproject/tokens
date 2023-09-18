@@ -1,0 +1,10 @@
+{
+    "name": "SingularityNET",
+    "ticker": "AGIX",
+    "website": "https://singularitynet.io/",
+    "description": "",
+    "contract": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+    "decimals": 8,
+    "CG_ID": "singularitynet",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Tomb Shares",
+    "ticker": "Tshare",
+    "website": "https://tomb.finance/",
+    "description": "",
+    "contract": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+    "decimals": 18,
+    "CG_ID": "tomb-shares",
+    "alias": ""
+}

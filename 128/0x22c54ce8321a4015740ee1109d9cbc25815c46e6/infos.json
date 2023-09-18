@@ -1,0 +1,10 @@
+{
+    "name": "Uniswap",
+    "ticker": "UNI",
+    "website": "https://uniswap.org/",
+    "description": "",
+    "contract": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+    "decimals": 18,
+    "CG_ID": "Uniswap",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "USD Coin",
+    "ticker": "USDC",
+    "website": "https://www.centre.io/",
+    "description": "",
+    "contract": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+    "decimals": 18,
+    "CG_ID": "usd-coin",
+    "alias": ""
+}

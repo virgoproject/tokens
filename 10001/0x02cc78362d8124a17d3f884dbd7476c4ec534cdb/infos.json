@@ -1,0 +1,10 @@
+{
+    "name": "Powswap",
+    "ticker": "POW",
+    "website": "powswap.io",
+    "description": "",
+    "contract": "0x02cc78362d8124a17d3f884dbd7476c4ec534cdb",
+    "decimals": 18,
+    "CG_ID": "powswap",
+    "alias": ""
+}

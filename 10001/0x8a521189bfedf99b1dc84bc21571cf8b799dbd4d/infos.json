@@ -1,0 +1,10 @@
+{
+    "name": "CakeWSwap",
+    "ticker": "CAKEW",
+    "website": "cakewswap.finance",
+    "description": "",
+    "contract": "0x8a521189bfedf99b1dc84bc21571cf8b799dbd4d",
+    "decimals": 18,
+    "CG_ID": "cakewswap",
+    "alias": ""
+}

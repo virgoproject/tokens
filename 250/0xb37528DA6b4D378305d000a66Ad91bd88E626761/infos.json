@@ -1,0 +1,10 @@
+{
+    "name": "Midas",
+    "ticker": "MIDAS",
+    "website": "https://midas.investments/",
+    "description": "",
+    "contract": "0xb37528DA6b4D378305d000a66Ad91bd88E626761",
+    "decimals": 18,
+    "CG_ID": "midas",
+    "alias": ""
+}
