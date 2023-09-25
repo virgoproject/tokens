@@ -1,0 +1,10 @@
+{
+    "name": "Ethereum",
+    "ticker": "ETH",
+    "website": "https://ethereum.org/",
+    "description": "",
+    "contract": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "decimals": 18,
+    "CG_ID": "Ethereum",
+    "alias": ""
+}
