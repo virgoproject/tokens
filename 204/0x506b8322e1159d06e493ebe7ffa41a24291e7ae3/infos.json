@@ -1,0 +1,10 @@
+{
+    "name": "Uniswap V2",
+    "ticker": "UNI-V2",
+    "website": "https://uniswap.org/",
+    "description": "",
+    "contract": "0x506b8322e1159d06e493ebe7ffa41a24291e7ae3",
+    "decimals": 18,
+    "CG_ID": "compound-uniswap",
+    "alias": ""
+}
