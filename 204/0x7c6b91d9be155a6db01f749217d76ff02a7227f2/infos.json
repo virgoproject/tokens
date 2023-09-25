@@ -1,0 +1,10 @@
+{
+    "name": "BTCB",
+    "ticker": "BTCB",
+    "website": "https://www.binance.com/",
+    "description": "",
+    "contract": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+    "decimals": 18,
+    "CG_ID": "bitcoin-bep2",
+    "alias": ""
+}
