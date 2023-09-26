@@ -1,0 +1,10 @@
+{
+    "name": "Magic Internet Money",
+    "ticker": "MIM",
+    "website": "https://abracadabra.money/",
+    "description": "",
+    "contract": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+    "decimals": 18,
+    "CG_ID": "magic-internet-money",
+    "alias": ""
+}
