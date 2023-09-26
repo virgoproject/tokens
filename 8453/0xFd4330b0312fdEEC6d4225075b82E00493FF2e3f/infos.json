@@ -1,0 +1,10 @@
+{
+    "name": "SmarDex",
+    "ticker": "SDEX",
+    "website": "https://smardex.io/",
+    "description": "",
+    "contract": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
+    "decimals": 18,
+    "CG_ID": "smardex",
+    "alias": ""
+}
