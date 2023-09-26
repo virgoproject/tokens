@@ -1,0 +1,10 @@
+{
+    "name": "DEUS Finance",
+    "ticker": "DEUS",
+    "website": "https://deus.finance/home/",
+    "description": "",
+    "contract": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+    "decimals": 18,
+    "CG_ID": "deus-finance-2",
+    "alias": ""
+}
