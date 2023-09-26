@@ -1,0 +1,10 @@
+{
+    "name": "Echelon Prime",
+    "ticker": "PRIME",
+    "website": "https://echelon.io/",
+    "description": "",
+    "contract": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+    "decimals": 18,
+    "CG_ID": "echelon-prime",
+    "alias": ""
+}
