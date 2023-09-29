@@ -1,0 +1,9 @@
+   "name": "USD Coin",
+    "ticker": "USDC",
+    "website": "https://optics.app/",
+    "description": "",
+    "contract": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+    "decimals": 6,
+    "CG_ID": "bridged-usd-coin-linea",
+    "alias": ""
+}
