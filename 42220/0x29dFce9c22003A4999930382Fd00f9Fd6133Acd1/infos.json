@@ -1,0 +1,10 @@
+{
+    "name": "Sushi",
+    "ticker": "SUSHI",
+    "website": "https://optics.app/",
+    "description": "",
+    "contract": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+    "decimals": 18,
+    "CG_ID": "sushi",
+    "alias": ""
+}
