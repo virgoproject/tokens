@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Ether",
+    "ticker": "WETH",
+    "website": "https://optics.app/",
+    "description": "",
+    "contract": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+    "decimals": 18,
+    "CG_ID": "bridged-wrapped-ether-stargate",
+    "alias": ""
+}
