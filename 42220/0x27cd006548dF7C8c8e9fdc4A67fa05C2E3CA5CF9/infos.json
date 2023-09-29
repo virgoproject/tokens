@@ -1,0 +1,10 @@
+{
+    "name": "Plastiks",
+    "ticker": "PLASTIK",
+    "website": "https://plastiks.io/",
+    "description": "",
+    "contract": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+    "decimals": 9,
+    "CG_ID": "plastiks",
+    "alias": ""
+}
