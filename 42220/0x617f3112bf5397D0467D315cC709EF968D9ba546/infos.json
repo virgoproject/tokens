@@ -1,0 +1,9 @@
+   "name": "Tether USD",
+    "ticker": "USDT",
+    "website": "https://www.portalbridge.com/",
+    "description": "",
+    "contract": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
+    "decimals": 6,
+    "CG_ID": "tether",
+    "alias": ""
+}
