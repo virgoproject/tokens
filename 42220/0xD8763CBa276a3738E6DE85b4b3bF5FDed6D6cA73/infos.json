@@ -1,0 +1,10 @@
+{
+    "name": "Celo Euro",
+    "ticker": "cEUR",
+    "website": "https://celo.org/",
+    "description": "",
+    "contract": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "decimals": 18,
+    "CG_ID": "celo-euro",
+    "alias": ""
+}
