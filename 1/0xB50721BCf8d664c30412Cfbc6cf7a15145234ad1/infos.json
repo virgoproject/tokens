@@ -1,0 +1,9 @@
+{
+    "name": "Arbitrum",
+    "ticker": "ARB",
+    "website": "https://arbitrum.io/",
+    "description": "",
+    "contract": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+    "decimals": 18,
+    "CG_ID": "arbitrum"
+}
