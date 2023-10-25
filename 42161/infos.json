@@ -1,4 +1,6 @@
 {
   "CG_Platform": "arbitrum-one",
-  "tokens": []
+  "tokens": [
+    "0x912CE59144191C1204E64559FE8253a0e49E6548"
+  ]
 }
