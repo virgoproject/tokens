@@ -1,0 +1,10 @@
+{
+    "name": "Balancer",
+    "ticker": "BAL",
+    "website": "https://balancer.finance/",
+    "description": "",
+    "contract": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+    "decimals": 18,
+    "CG_ID": "balancer",
+    "alias": ""
+}
