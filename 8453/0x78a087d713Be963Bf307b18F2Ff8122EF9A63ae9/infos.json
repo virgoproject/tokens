@@ -1,0 +1,10 @@
+{
+    "name": "Baseswap",
+    "ticker": "BSWAP",
+    "website": "https://baseswap.fi/",
+    "description": "",
+    "contract": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+    "decimals": 18,
+    "CG_ID": "baseswap",
+    "alias": ""
+}

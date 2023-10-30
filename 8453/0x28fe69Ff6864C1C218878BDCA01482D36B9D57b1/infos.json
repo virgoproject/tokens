@@ -1,0 +1,10 @@
+{
+    "name": "Kyber Network Crystal",
+    "ticker": "KNC",
+    "website": "https://kyber.network",
+    "description": "",
+    "contract": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
+    "decimals": 18,
+    "CG_ID": "kyber-network-crystal",
+    "alias": ""
+}

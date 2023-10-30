@@ -1,0 +1,10 @@
+{
+    "name": "Ubeswap",
+    "ticker": "UBE",
+    "website": "https://ubeswap.org/",
+    "description": "",
+    "contract": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "decimals": 18,
+    "CG_ID": "",
+    "alias": ""
+}

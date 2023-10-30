@@ -1,0 +1,10 @@
+{
+    "name": "PancakeSwap",
+    "ticker": "CAKE",
+    "website": "https://pancakeswap.finance/",
+    "description": "",
+    "contract": "0xd08a2917653d4e460893203471f0000826fb4034",
+    "decimals": 18,
+    "CG_ID": "pancakeswap-token",
+    "alias": ""
+}

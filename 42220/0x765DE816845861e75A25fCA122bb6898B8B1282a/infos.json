@@ -1,0 +1,10 @@
+{
+    "name": "Celo Dollar",
+    "ticker": "cUSD",
+    "website": "https://celo.org/",
+    "description": "",
+    "contract": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "decimals": 18,
+    "CG_ID": "celo-dollar",
+    "alias": ""
+}

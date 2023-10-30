@@ -1,0 +1,10 @@
+{
+    "name": "USD Coin",
+    "ticker": "USDC",
+    "website": "https://www.circle.com/en/usdc",
+    "description": "",
+    "contract": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 6,
+    "CG_ID": "bridged-usd-coin-base",
+    "alias": ""
+}

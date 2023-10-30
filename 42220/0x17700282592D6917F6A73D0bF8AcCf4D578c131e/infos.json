@@ -1,0 +1,10 @@
+{
+    "name": "Moola",
+    "ticker": "MOO",
+    "website": "https://moola.market/",
+    "description": "",
+    "contract": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "decimals": 18,
+    "CG_ID": "moola-market",
+    "alias": ""
+}

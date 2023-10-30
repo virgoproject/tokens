@@ -1,0 +1,10 @@
+{
+    "name": "USD Base Coin",
+    "ticker": "USDbC",
+    "website": "https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin",
+    "description": "",
+    "contract": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "decimals": 6,
+    "CG_ID": "bridged-usd-coin-base",
+    "alias": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Binary Swap",
+    "ticker": "0101",
+    "website": "https://www.binaryswap.io/",
+    "description": "",
+    "contract": "0xa41b3067ec694dbec668c389550ba8fc589e5797",
+    "decimals": 18,
+    "CG_ID": "binary-swap",
+    "alias": ""
+}
