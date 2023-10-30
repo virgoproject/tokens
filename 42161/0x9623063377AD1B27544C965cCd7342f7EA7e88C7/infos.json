@@ -1,0 +1,10 @@
+{
+    "name": "The Graph",
+    "ticker": "GRT",
+    "website": "https://thegraph.com/",
+    "description": "",
+    "contract": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+    "decimals": 18,
+    "CG_ID": "the-graph",
+    "alias": ""
+}
