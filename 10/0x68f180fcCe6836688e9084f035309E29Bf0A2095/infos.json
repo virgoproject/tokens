@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped BTC",
+    "ticker": "WBTC",
+    "website": "https://www.wbtc.network/",
+    "description": "",
+    "contract": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "decimals": 8,
+    "CG_ID": "wrapped-bitcoin",
+    "alias": ""
+}
