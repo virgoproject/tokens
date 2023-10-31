@@ -1,0 +1,10 @@
+{
+    "name": "Worldcoin",
+    "ticker": "WLD",
+    "website": "https://worldcoin.org/",
+    "description": "",
+    "contract": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+    "decimals": 18,
+    "CG_ID": "worldcoin-wld",
+    "alias": ""
+}
