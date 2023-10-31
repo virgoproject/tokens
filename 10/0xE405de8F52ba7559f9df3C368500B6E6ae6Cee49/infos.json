@@ -1,0 +1,10 @@
+{
+    "name": "Synth sETH",
+    "ticker": "sETH",
+    "website": "https://www.synthetix.io/",
+    "description": "",
+    "contract": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+    "decimals": 18,
+    "CG_ID": "seth",
+    "alias": ""
+}
