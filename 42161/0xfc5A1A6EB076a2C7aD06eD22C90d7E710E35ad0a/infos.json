@@ -1,0 +1,10 @@
+{
+    "name": "GMX",
+    "ticker": "GMX",
+    "website": "https://gmx.io/",
+    "description": "",
+    "contract": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "decimals": 18,
+    "CG_ID": "gmx",
+    "alias": ""
+}

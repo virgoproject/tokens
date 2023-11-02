@@ -1,0 +1,10 @@
+{
+    "name": "Fountain Protocol",
+    "ticker": "FTP",
+    "website": "https://ftp.cash/home",
+    "description": "",
+    "contract": "0xd1df9ce4b6159441d18bd6887dbd7320a8d52a05",
+    "decimals": 18,
+    "CG_ID": "fountain-protocol",
+    "alias": ""
+}

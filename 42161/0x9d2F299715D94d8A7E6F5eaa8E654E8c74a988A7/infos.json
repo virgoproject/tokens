@@ -1,0 +1,10 @@
+{
+    "name": "Frax Share",
+    "ticker": "FXS",
+    "website": "https://frax.finance",
+    "description": "",
+    "contract": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+    "decimals": 18,
+    "CG_ID": "frax-share",
+    "alias": ""
+}

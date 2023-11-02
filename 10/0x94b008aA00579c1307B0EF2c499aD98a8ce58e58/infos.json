@@ -1,0 +1,10 @@
+{
+    "name": "Tether USD",
+    "ticker": "USDT",
+    "website": "https://tether.to/",
+    "description": "",
+    "contract": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "decimals": 6,
+    "CG_ID": "tether",
+    "alias": ""
+}

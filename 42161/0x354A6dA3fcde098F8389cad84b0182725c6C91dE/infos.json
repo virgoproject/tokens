@@ -1,0 +1,10 @@
+{
+    "name": "Compund",
+    "ticker": "COMP",
+    "website": "https://compound.finance/",
+    "description": "",
+    "contract": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+    "decimals": 18,
+    "CG_ID": "compound-governance-token",
+    "alias": ""
+}

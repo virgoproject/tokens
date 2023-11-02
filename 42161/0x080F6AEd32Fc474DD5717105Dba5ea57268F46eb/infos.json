@@ -1,0 +1,10 @@
+{
+    "name": "Synapse",
+    "ticker": "SYN",
+    "website": "https://synapseprotocol.com/",
+    "description": "",
+    "contract": "0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb",
+    "decimals": 18,
+    "CG_ID": "synapse-network",
+    "alias": ""
+}

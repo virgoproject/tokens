@@ -1,0 +1,10 @@
+{
+    "name": "Livepeer",
+    "ticker": "LPT",
+    "website": "https://livepeer.org/",
+    "description": "",
+    "contract": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+    "decimals": 18,
+    "CG_ID": "livepeer",
+    "alias": ""
+}

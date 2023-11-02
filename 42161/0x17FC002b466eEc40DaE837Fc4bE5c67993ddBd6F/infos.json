@@ -1,0 +1,10 @@
+{
+    "name": "Frax",
+    "ticker": "FRAX",
+    "website": "https://frax.finance",
+    "description": "",
+    "contract": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "CG_ID": "frax",
+    "alias": ""
+}

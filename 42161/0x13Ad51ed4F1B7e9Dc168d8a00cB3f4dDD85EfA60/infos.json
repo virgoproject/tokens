@@ -1,0 +1,10 @@
+{
+    "name": "Lido DAO",
+    "ticker": "LDO",
+    "website": "https://stake.lido.fi/",
+    "description": "",
+    "contract": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+    "decimals": 18,
+    "CG_ID": "lido-dao",
+    "alias": ""
+}
