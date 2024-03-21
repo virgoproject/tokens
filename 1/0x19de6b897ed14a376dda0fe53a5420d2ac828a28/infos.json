@@ -1,0 +1,10 @@
+{
+    "name": "Bitget Token",
+    "ticker": "BGB",
+    "website": "https://www.bitget.com/en/",
+    "description": "",
+    "contract": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+    "decimals": 18,
+    "CG_ID": "bitget-token",
+    "alias": ""
+}
