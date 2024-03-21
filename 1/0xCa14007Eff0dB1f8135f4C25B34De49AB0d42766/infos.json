@@ -1,0 +1,10 @@
+{
+    "name": "Starknet",
+    "ticker": "STRK",
+    "website": "https://starknet.io/",
+    "description": "",
+    "contract": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+    "decimals": 18,
+    "CG_ID": "starknet",
+    "alias": ""
+}
