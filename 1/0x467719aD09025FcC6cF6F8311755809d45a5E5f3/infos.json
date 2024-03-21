@@ -1,0 +1,10 @@
+{
+    "name": "Axelar",
+    "ticker": "AXL",
+    "website": "https://axelar.network/",
+    "description": "",
+    "contract": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+    "decimals": 6,
+    "CG_ID": "axelar",
+    "alias": ""
+}
