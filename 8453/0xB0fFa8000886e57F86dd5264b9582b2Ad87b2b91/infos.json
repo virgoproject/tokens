@@ -1,0 +1,10 @@
+{
+    "name": "Wormhole",
+    "ticker": "W",
+    "website": "https://wormhole.com/",
+    "description": "",
+    "contract": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+    "decimals": 18,
+    "CG_ID": "wormhole",
+    "alias": ""
+}
