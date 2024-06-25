@@ -1,0 +1,10 @@
+{
+    "name": "AIOZ Network",
+    "ticker": "AIOZ",
+    "website": "https://aioz.network/",
+    "description": "",
+    "contract": "0x33d08D8C7a168333a85285a68C0042b39fC3741D",
+    "decimals": 18,
+    "CG_ID": "aioz-network",
+    "alias": ""
+}
