@@ -1,0 +1,10 @@
+{
+    "name": "Alchemy Pay",
+    "ticker": "ACH",
+    "website": "https://alchemypay.org/",
+    "description": "",
+    "contract": "0xBc7d6B50616989655AfD682fb42743507003056D",
+    "decimals": 8,
+    "CG_ID": "",
+    "alias": ""
+}
