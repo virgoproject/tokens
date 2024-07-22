@@ -1,0 +1,10 @@
+{
+    "name": "Vanar Chain",
+    "ticker": "VANRY",
+    "website": "https://vanarchain.com/",
+    "description": "",
+    "contract": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "decimals": 18,
+    "CG_ID": "vanar-chain",
+    "alias": ""
+}
