@@ -1,0 +1,10 @@
+{
+    "name": "Altlayer",
+    "ticker": "ALT",
+    "website": "https://altlayer.io/",
+    "description": "",
+    "contract": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
+    "decimals": 18,
+    "CG_ID": "altlayer",
+    "alias": ""
+}
