@@ -425,26 +425,5 @@
          "swapParams":false,
          "testnet":false
       }
-   },
-   {
-      "type":"web3",
-      "wallet":{
-         "name":"Oasis",
-         "asset":"Oasis",
-         "ticker":"ROSE",
-         "decimals":18,
-         "contract":"0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
-         "RPC":"https://emerald.oasis.dev",
-         "chainID":42262,
-         "tokens":[
-
-         ],
-         "transactions":[
-
-         ],
-         "explorer":"https://explorer.emerald.oasis.dev/tx/",
-         "swapParams":false,
-         "testnet":false
-      }
    }
 ]
