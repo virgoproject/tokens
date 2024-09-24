@@ -320,5 +320,131 @@
          "swapParams":false,
          "testnet":false
       }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"opBNB",
+         "asset":"Binance Coin",
+         "ticker":"BNB",
+         "decimals":18,
+         "contract":"0x4200000000000000000000000000000000000006",
+         "RPC":"https://opbnb-mainnet-rpc.bnbchain.org",
+         "chainID":204,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://opbnbscan.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Base",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x4200000000000000000000000000000000000006",
+         "RPC":"https://mainnet.base.org",
+         "chainID":8453,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://basescan.org/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Optimism",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x4200000000000000000000000000000000000006",
+         "RPC":"https://rpc.ankr.com/optimism",
+         "chainID":10,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://optimistic.etherscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Celo",
+         "asset":"Celo",
+         "ticker":"CELO",
+         "decimals":18,
+         "contract":"0x471EcE3750Da237f93B8E339c536989b8978a438",
+         "RPC":"https://rpc.ankr.com/celo",
+         "chainID":42220,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://celoscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Arbitrum",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+         "RPC":"https://rpc.ankr.com/arbitrum",
+         "chainID":42161,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://arbiscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Oasis",
+         "asset":"Oasis",
+         "ticker":"ROSE",
+         "decimals":18,
+         "contract":"0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+         "RPC":"https://emerald.oasis.dev",
+         "chainID":42262,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.emerald.oasis.dev/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
    }
 ]
