@@ -1,0 +1,10 @@
+{
+    "name": "Telcoin",
+    "ticker": "TEL",
+    "website": "https://www.telco.in/",
+    "description": "",
+    "contract": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+    "decimals": 2,
+    "CG_ID": "telcoin",
+    "alias": ""
+}
