@@ -425,5 +425,26 @@
          "swapParams":false,
          "testnet":false
       }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Chiliz",
+         "asset":"Chiliz",
+         "ticker":"CHZ",
+         "decimals":18,
+         "contract":"0x721EF6871f1c4Efe730Dce047D40D1743B886946",
+         "RPC":"https://rpc.ankr.com/chiliz",
+         "chainID":88888,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://scan.chiliz.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
    }
 ]
