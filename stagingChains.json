@@ -1,0 +1,492 @@
+[
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Ethereum",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+         "RPC":"https://rpc.ankr.com/eth",
+         "chainID":1,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://etherscan.io/tx/",
+         "swapParams":{
+            "type":"uni3",
+            "quoterAddress":"0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+            "factoryAddress":"0x1F98431c8aD98523631AE4a59f267346ea31F984",
+            "popularTokens":[
+               "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+               "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+               "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+            ],
+            "proxyAddress":"0x5366De6176049C58F53Cb385A09E52Ae51909b13"
+         },
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Goerli",
+         "asset":"Ethereum",
+         "ticker":"GETH",
+         "decimals":18,
+         "contract":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+         "RPC":"https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+         "chainID":5,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://goerli.etherscan.io/tx/",
+         "swapParams":false,
+         "testnet":true
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Smart Chain",
+         "asset":"Binance Coin",
+         "ticker":"BNB",
+         "decimals":18,
+         "contract":"0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+         "RPC":"https://bsc-dataseed.binance.org/",
+         "chainID":56,
+         "tokens":[
+            {
+               "name":"Virgo",
+               "ticker":"VGO",
+               "decimals":8,
+               "contract":"0xfb526228ff1c019e4604c7e7988c097d96bd5b70",
+               "tracked":true
+            }
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://bscscan.com/tx/",
+         "swapParams":{
+            "type":"uni2",
+            "routerAddress":"0x10ED43C718714eb63d5aA57B78B54704E256024E",
+            "factoryAddress":"0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+            "popularTokens":[
+               "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+               "0x55d398326f99059fF775485246999027B3197955",
+               "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+               "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+            ],
+            "proxyAddress":"0x230ad23490f55A1167bc6CB59B6A186e1ebA3703"
+         },
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Polygon",
+         "asset":"Polygon",
+         "ticker":"POL",
+         "decimals":18,
+         "contract":"0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+         "RPC":"https://rpc.ankr.com/polygon",
+         "chainID":137,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://polygonscan.com/tx/",
+         "swapParams":{
+            "type":"uni3",
+            "quoterAddress":"0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+            "factoryAddress":"0x1F98431c8aD98523631AE4a59f267346ea31F984",
+            "popularTokens":[
+               "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+               "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+               "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+               "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+            ],
+            "proxyAddress":"0x4BF804F200125E1bE6732Cf9fD4a75E60Cc8DEb4"
+         },
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Avalanche",
+         "asset":"Avalanche",
+         "ticker":"AVAX",
+         "decimals":18,
+         "contract":"0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+         "RPC":"https://api.avax.network/ext/bc/C/rpc",
+         "chainID":43114,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://snowtrace.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Fantom",
+         "asset":"Fantom",
+         "ticker":"FTM",
+         "decimals":18,
+         "contract":"0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+         "RPC":"https://rpc.ftm.tools/",
+         "chainID":250,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://ftmscan.com/tx/",
+         "swapParams":{
+            "type":"uni2",
+            "routerAddress":"0xf491e7b69e4244ad4002bc14e878a34207e38c29",
+            "factoryAddress":"0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3",
+            "popularTokens":[
+               "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+               "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+               "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+               "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+            ],
+            "proxyAddress":"0xd52852E3aDad6e722d5834918Df792BDc9eC872F"
+         },
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Heco Chain",
+         "asset":"Huobi Token",
+         "ticker":"HT",
+         "decimals":18,
+         "contract":"0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+         "RPC":"https://http-mainnet.hecochain.com/",
+         "chainID":128,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://hecoinfo.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"KuCoin Chain",
+         "asset":"KuCoin Token",
+         "ticker":"KCS",
+         "decimals":18,
+         "contract":"0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+         "RPC":"https://rpc-mainnet.kcc.network/",
+         "chainID":321,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.kcc.io/en/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Cronos Chain",
+         "asset":"Cronos",
+         "ticker":"CRO",
+         "decimals":18,
+         "contract":"0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+         "RPC":"https://evm-cronos.crypto.org/",
+         "chainID":25,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://cronoscan.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Ether PoW",
+         "asset":"EthereumPoW",
+         "ticker":"ETHW",
+         "decimals":18,
+         "contract":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+         "RPC":"https://mainnet.ethereumpow.org/",
+         "chainID":10001,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://www.oklink.com/en/ethw/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Ether Classic",
+         "asset":"Ethereum Classic",
+         "ticker":"ETC",
+         "decimals":18,
+         "contract":"0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+         "RPC":"https://geth-de.etc-network.info",
+         "chainID":61,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://blockscout.com/etc/mainnet/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Ether Fair",
+         "asset":"Ethereum Fair",
+         "ticker":"ETHF",
+         "decimals":18,
+         "contract":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+         "RPC":"https://rpc.etherfair.org/",
+         "chainID":513100,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.etherfair.org/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Oasis",
+         "asset":"Oasis",
+         "ticker":"ROSE",
+         "decimals":18,
+         "contract":"0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+         "RPC":"https://emerald.oasis.dev",
+         "chainID":42262,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.emerald.oasis.dev/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"opBNB",
+         "asset":"Binance Coin",
+         "ticker":"BNB",
+         "decimals":18,
+         "contract":"0x4200000000000000000000000000000000000006",
+         "RPC":"https://opbnb-mainnet-rpc.bnbchain.org",
+         "chainID":204,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://opbnbscan.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Base",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x4200000000000000000000000000000000000006",
+         "RPC":"https://mainnet.base.org",
+         "chainID":8453,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://basescan.org/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Optimism",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x4200000000000000000000000000000000000006",
+         "RPC":"https://rpc.ankr.com/optimism",
+         "chainID":10,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://optimistic.etherscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Celo",
+         "asset":"Celo",
+         "ticker":"CELO",
+         "decimals":18,
+         "contract":"0x471EcE3750Da237f93B8E339c536989b8978a438",
+         "RPC":"https://rpc.ankr.com/celo",
+         "chainID":42220,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://celoscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Arbitrum",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+         "RPC":"https://rpc.ankr.com/arbitrum",
+         "chainID":42161,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://arbiscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Chiliz",
+         "asset":"Chiliz",
+         "ticker":"CHZ",
+         "decimals":18,
+         "contract":"0x721EF6871f1c4Efe730Dce047D40D1743B886946",
+         "RPC":"https://rpc.ankr.com/chiliz",
+         "chainID":88888,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://scan.chiliz.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+  {
+      "type":"web3",
+      "wallet":{
+         "name":"Chiliz",
+         "asset":"Chiliz",
+         "ticker":"CHZ",
+         "decimals":18,
+         "contract":"0x721EF6871f1c4Efe730Dce047D40D1743B886946",
+         "RPC":"https://rpc.ankr.com/chiliz",
+         "chainID":88888,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://scan.chiliz.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"ZkSync Era",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+         "RPC":"https://rpc.ankr.com/zksync_era",
+         "chainID":324,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.zksync.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+]
