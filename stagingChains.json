@@ -488,5 +488,26 @@
          "swapParams":false,
          "testnet":false
       }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Linea",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+         "RPC":"https://linea.drpc.org",
+         "chainID":59144,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://linea.socialscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
    }
 ]
