@@ -530,5 +530,26 @@
          "swapParams":false,
          "testnet":false
       }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Aurora",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+         "RPC":"https://aurora.drpc.org",
+         "chainID":1313161554,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.aurora.dev/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
    }
 ]
