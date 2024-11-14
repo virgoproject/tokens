@@ -1,9 +1,0 @@
-{
-    "name": "Ethereum",
-    "ticker": "ETH",
-    "website": "https://ethereum.org/",
-    "description": "",
-    "contract": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-    "decimals": 18,
-    "CG_ID": "ethereum"
-}
