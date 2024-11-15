@@ -446,5 +446,110 @@
          "swapParams":false,
          "testnet":false
       }
+   },
+  {
+      "type":"web3",
+      "wallet":{
+         "name":"Chiliz",
+         "asset":"Chiliz",
+         "ticker":"CHZ",
+         "decimals":18,
+         "contract":"0x721EF6871f1c4Efe730Dce047D40D1743B886946",
+         "RPC":"https://rpc.ankr.com/chiliz",
+         "chainID":88888,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://scan.chiliz.com/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"ZkSync Era",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+         "RPC":"https://rpc.ankr.com/zksync_era",
+         "chainID":324,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.zksync.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Linea",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+         "RPC":"https://linea.drpc.org",
+         "chainID":59144,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://linea.socialscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Blast",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0x4300000000000000000000000000000000000004",
+         "RPC":"https://rpc.ankr.com/blast",
+         "chainID":81457,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://blastscan.io/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
+   },
+   {
+      "type":"web3",
+      "wallet":{
+         "name":"Aurora",
+         "asset":"Ethereum",
+         "ticker":"ETH",
+         "decimals":18,
+         "contract":"0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+         "RPC":"https://aurora.drpc.org",
+         "chainID":1313161554,
+         "tokens":[
+
+         ],
+         "transactions":[
+
+         ],
+         "explorer":"https://explorer.aurora.dev/tx/",
+         "swapParams":false,
+         "testnet":false
+      }
    }
 ]
