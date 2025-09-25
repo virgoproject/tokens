@@ -7,7 +7,7 @@
          "ticker":"ETH",
          "decimals":18,
          "contract":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-         "RPC":"https://rpc.ankr.com/eth",
+         "RPC":"https://eth.drpc.org",
          "chainID":1,
          "tokens":[
 
@@ -28,27 +28,6 @@
             "proxyAddress":"0x5366De6176049C58F53Cb385A09E52Ae51909b13"
          },
          "testnet":false
-      }
-   },
-   {
-      "type":"web3",
-      "wallet":{
-         "name":"Goerli",
-         "asset":"Ethereum",
-         "ticker":"GETH",
-         "decimals":18,
-         "contract":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-         "RPC":"https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-         "chainID":5,
-         "tokens":[
-
-         ],
-         "transactions":[
-
-         ],
-         "explorer":"https://goerli.etherscan.io/tx/",
-         "swapParams":false,
-         "testnet":true
       }
    },
    {
@@ -97,7 +76,7 @@
          "ticker":"POL",
          "decimals":18,
          "contract":"0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-         "RPC":"https://rpc.ankr.com/polygon",
+         "RPC":"https://1rpc.io/matic",
          "chainID":137,
          "tokens":[
 
@@ -150,7 +129,7 @@
          "ticker":"FTM",
          "decimals":18,
          "contract":"0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
-         "RPC":"https://rpc.ftm.tools/",
+         "RPC":"https://rpc.fantom.network",
          "chainID":250,
          "tokens":[
 
@@ -171,27 +150,6 @@
             ],
             "proxyAddress":"0xd52852E3aDad6e722d5834918Df792BDc9eC872F"
          },
-         "testnet":false
-      }
-   },
-   {
-      "type":"web3",
-      "wallet":{
-         "name":"Heco Chain",
-         "asset":"Huobi Token",
-         "ticker":"HT",
-         "decimals":18,
-         "contract":"0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
-         "RPC":"https://http-mainnet.hecochain.com/",
-         "chainID":128,
-         "tokens":[
-
-         ],
-         "transactions":[
-
-         ],
-         "explorer":"https://hecoinfo.com/tx/",
-         "swapParams":false,
          "testnet":false
       }
    },
@@ -224,7 +182,7 @@
          "ticker":"CRO",
          "decimals":18,
          "contract":"0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
-         "RPC":"https://evm-cronos.crypto.org/",
+         "RPC":"https://1rpc.io/cro",
          "chainID":25,
          "tokens":[
 
@@ -266,7 +224,7 @@
          "ticker":"ETC",
          "decimals":18,
          "contract":"0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
-         "RPC":"https://geth-de.etc-network.info",
+         "RPC":"https://0xrpc.io/etc",
          "chainID":61,
          "tokens":[
 
@@ -303,12 +261,12 @@
    {
       "type":"web3",
       "wallet":{
-         "name":"Oasis",
+         "name":"Oasis Emerald",
          "asset":"Oasis",
          "ticker":"ROSE",
          "decimals":18,
          "contract":"0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
-         "RPC":"https://emerald.oasis.dev",
+         "RPC":"https://emerald.oasis.io",
          "chainID":42262,
          "tokens":[
 
@@ -371,7 +329,7 @@
          "ticker":"ETH",
          "decimals":18,
          "contract":"0x4200000000000000000000000000000000000006",
-         "RPC":"https://rpc.ankr.com/optimism",
+         "RPC":"https://optimism.drpc.org",
          "chainID":10,
          "tokens":[
 
@@ -392,7 +350,7 @@
          "ticker":"CELO",
          "decimals":18,
          "contract":"0x471EcE3750Da237f93B8E339c536989b8978a438",
-         "RPC":"https://rpc.ankr.com/celo",
+         "RPC":"https://celo.drpc.org",
          "chainID":42220,
          "tokens":[
 
@@ -413,7 +371,7 @@
          "ticker":"ETH",
          "decimals":18,
          "contract":"0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-         "RPC":"https://rpc.ankr.com/arbitrum",
+         "RPC":"https://arbitrum-one-rpc.publicnode.com",
          "chainID":42161,
          "tokens":[
 
@@ -434,28 +392,7 @@
          "ticker":"CHZ",
          "decimals":18,
          "contract":"0x721EF6871f1c4Efe730Dce047D40D1743B886946",
-         "RPC":"https://rpc.ankr.com/chiliz",
-         "chainID":88888,
-         "tokens":[
-
-         ],
-         "transactions":[
-
-         ],
-         "explorer":"https://scan.chiliz.com/tx/",
-         "swapParams":false,
-         "testnet":false
-      }
-   },
-  {
-      "type":"web3",
-      "wallet":{
-         "name":"Chiliz",
-         "asset":"Chiliz",
-         "ticker":"CHZ",
-         "decimals":18,
-         "contract":"0x721EF6871f1c4Efe730Dce047D40D1743B886946",
-         "RPC":"https://rpc.ankr.com/chiliz",
+         "RPC":"https://rpc.chiliz.com",
          "chainID":88888,
          "tokens":[
 
@@ -471,12 +408,12 @@
    {
       "type":"web3",
       "wallet":{
-         "name":"ZkSync Era",
+         "name":"ZkSync",
          "asset":"Ethereum",
          "ticker":"ETH",
          "decimals":18,
          "contract":"0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
-         "RPC":"https://rpc.ankr.com/zksync_era",
+         "RPC":"https://mainnet.era.zksync.io",
          "chainID":324,
          "tokens":[
 
@@ -497,7 +434,7 @@
          "ticker":"ETH",
          "decimals":18,
          "contract":"0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-         "RPC":"https://linea.drpc.org",
+         "RPC":"https://1rpc.io/linea",
          "chainID":59144,
          "tokens":[
 
@@ -518,7 +455,7 @@
          "ticker":"ETH",
          "decimals":18,
          "contract":"0x4300000000000000000000000000000000000004",
-         "RPC":"https://rpc.ankr.com/blast",
+         "RPC":"https://rpc.blast.io",
          "chainID":81457,
          "tokens":[
 
@@ -539,7 +476,7 @@
          "ticker":"ETH",
          "decimals":18,
          "contract":"0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
-         "RPC":"https://aurora.drpc.org",
+         "RPC":"https://mainnet.aurora.dev",
          "chainID":1313161554,
          "tokens":[
 
