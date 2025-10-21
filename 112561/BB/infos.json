@@ -1,0 +1,8 @@
+{
+  "name": "name",
+  "ticker": "ticker",
+  "website": "website",
+  "description": "description",
+  "contract": "contract",
+  "CG_ID": "cg_id"
+}
